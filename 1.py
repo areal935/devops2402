@@ -6,7 +6,7 @@ list1 = [i for i in range(20)]
 list2 = [i for i in range(5, 15)]
 aray1 = np.array(list1)
 arr_2d = np.array([list1, list2])
-np.arange(10, 1, -3)
+np.arange(10, 1, -8)
 [round(x, 2) for x in np.linspace(1, 10, 50)]
 np.ones(20)
 np.zeros()
