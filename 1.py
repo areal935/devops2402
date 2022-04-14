@@ -13,4 +13,4 @@ np.zeros()
 np.zeros((4, 2), dtype=int)
 np.random.rand(3)
 arr_2d.shape
-np.arange(300)
+np.arange(5)
