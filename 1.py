@@ -8,7 +8,7 @@ aray1 = np.array(list1)
 arr_2d = np.array([list1, list2])
 np.arange(10, 1, -3)
 [round(x, 2) for x in np.linspace(1, 10, 50)]
-np.ones(10)
+np.ones(20)
 np.zeros()
 np.zeros((4, 2), dtype=int)
 np.random.rand(3)
